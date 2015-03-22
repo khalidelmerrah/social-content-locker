@@ -1,0 +1,30 @@
+.secret{
+	display:none;
+}
+
+.sociallockz {
+	background-image: url("skin1.png");
+	background-color: #4A4A4A;
+	background-repeat: no-repeat;
+	padding:10px;
+	color:white;
+	background-position: left 5px top 5px;
+}
+
+.sociallockz  h3{
+	color:white;
+	font-size:16px!important;
+	margin-left:20px;
+}
+
+
+.sociallockz iframe {
+	min-width: initial!important;
+	float: left;
+	margin-left:10px!important;
+}
+
+.sociallockz .fb_iframe_widget span{
+	height: 68px!important;
+	margin-left: 5px;
+}
